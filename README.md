@@ -1,4 +1,4 @@
 # InterviewPrep
-Resources I collected during my interview preparation
+Collection of resources during my interview preparation.
 
-Basically interviews will either be coding or object oriented design or System design (For mid-senior experience roles).
+Basically interview rounds will either be Coding or Object Oriented Design or System Design(For mid-senior experience roles).
