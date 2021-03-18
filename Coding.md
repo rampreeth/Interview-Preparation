@@ -1,8 +1,8 @@
 ## Problem Solving 
 
-	** Book: ** Cracking of the coding interview [CTCI] - If you read this book properly then nothing else is needed.
+	**Book:** Cracking of the coding interview [CTCI] - If you read this book properly then nothing else is needed.
 
-	you should buy the book (legal) or download from here https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf  (illegal).
+	you should buy the book (legal) or download from [here] (https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf)  (illegal).
 
 	#Object Oriented Design [ Asked in most companies ] - read from CTCI book
 
@@ -11,7 +11,8 @@
 
 	
 ## Data Structures
-	** Should know implementation of following Data Structures **
+	
+	### Should know implementation of following Data Structures**
 		Queues
 		Stacks
 		LinkedList
@@ -24,7 +25,7 @@
 
 		Implementation of the above DS - https://www.youtube.com/watch?v=IhJGJG-9Dx8&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX
 
- 	# Youtube
+ 	### Youtube
 		He solves some specific interview problems (check out the playlists)- https://www.youtube.com/c/KevinNaughtonJr/playlists
 		Recursion - https://www.youtube.com/watch?v=ngCos392W4w
 		Dynamic Programming - https://www.youtube.com/watch?v=aPQY__2H3tE
