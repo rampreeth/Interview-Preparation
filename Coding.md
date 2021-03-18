@@ -50,4 +50,4 @@ This guy explains algorithms pretty well too. [link](https://www.youtube.com/wat
 **Take mock interview** [here](https://leetcode.com/interview/)
 
 ## Object Oriented Design 
-Asked by most companies - read from CTCI book
+Asked by most companies - read from CTCI book Chapter 7
