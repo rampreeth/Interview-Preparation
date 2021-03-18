@@ -1,6 +1,6 @@
 ## Problem Solving 
 
-	#Book: Cracking of the coding interview [CTCI] - If you read this book properly then nothing else is needed.
+	** Book: ** Cracking of the coding interview [CTCI] - If you read this book properly then nothing else is needed.
 
 	you should buy the book (legal) or download from here https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf  (illegal).
 
@@ -11,7 +11,7 @@
 
 	
 ## Data Structures
-	**Should know implementation of following Data Structures**
+	** Should know implementation of following Data Structures **
 		Queues
 		Stacks
 		LinkedList
