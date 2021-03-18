@@ -4,9 +4,9 @@
 
 you should buy the book from [here](https://www.amazon.in/Cracking-the-Coding-Interview/dp/0984782869/ref=pd_lpo_14_t_0/261-5452105-8850831?_encoding=UTF8&pd_rd_i=0984782869&pd_rd_r=03dbbed6-ae3f-497d-be6c-72c95ae61013&pd_rd_w=7ACCN&pd_rd_wg=LElX3&pf_rd_p=8fa1f3a8-c3ee-4cde-8295-5699918f5887&pf_rd_r=CDFJ0D6WD84BC99EG5HW&psc=1&refRID=CDFJ0D6WD84BC99EG5HW)(legal) or download from [here](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf)  (illegal).
 
-**Most frequently asked interview [problems]**(https://leetcode.com/problemset/top-interview-questions/).
+**Most frequently asked interview [problems](https://leetcode.com/problemset/top-interview-questions/)**.
 
-**Famous [problems]**( https://leetcode.com/problemset/top-100-liked-questions/) for understanding concepts.
+**Famous [problems](https://leetcode.com/problemset/top-100-liked-questions/)** for understanding concepts.
 
 	
 ## Data Structures
