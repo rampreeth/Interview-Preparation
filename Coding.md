@@ -22,7 +22,7 @@ Famous [problems]( https://leetcode.com/problemset/top-100-liked-questions/) for
 8. Heap
 9. HashMap
 
-Implementation of the above DS - https://www.youtube.com/watch?v=IhJGJG-9Dx8&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX
+Implementation of the above DS [link](https://www.youtube.com/watch?v=IhJGJG-9Dx8&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
 
 ### Youtube
 He solves some specific interview problems. Check out the [playlists](https://www.youtube.com/c/KevinNaughtonJr/playlists)
