@@ -4,8 +4,6 @@
 
 you should buy the book (legal) or download from [here](https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf)  (illegal).
 
-**Object Oriented Design** [ Asked in most companies ] - read from CTCI book
-
 Most frequently asked interview [problems](https://leetcode.com/problemset/top-interview-questions/).
 
 Famous [problems]( https://leetcode.com/problemset/top-100-liked-questions/) for understanding concepts
@@ -27,9 +25,11 @@ Famous [problems]( https://leetcode.com/problemset/top-100-liked-questions/) for
 Implementation of the above DS - https://www.youtube.com/watch?v=IhJGJG-9Dx8&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX
 
 ### Youtube
-He solves some specific interview problems. Check out the [playlists](- https://www.youtube.com/c/KevinNaughtonJr/playlists)
-[Recursion](https://www.youtube.com/watch?v=ngCos392W4w)
-[Dynamic Programming](https://www.youtube.com/watch?v=aPQY__2H3tE)
+He solves some specific interview problems. Check out the [playlists](https://www.youtube.com/c/KevinNaughtonJr/playlists)
+
+Concept: [Recursion](https://www.youtube.com/watch?v=ngCos392W4w)
+
+Concept: [Dynamic Programming](https://www.youtube.com/watch?v=aPQY__2H3tE)
 
 ## Algorithms 
 1. DFS
@@ -48,3 +48,6 @@ He solves some specific interview problems. Check out the [playlists](- https://
 **Read Interview Experiences** [here](https://leetcode.com/discuss/interview-experience?currentPage=1&orderBy=hot&query=)
 
 **Take mock interview** [here](https://leetcode.com/interview/)
+
+## Object Oriented Design 
+Asked in most companies - read from CTCI book
