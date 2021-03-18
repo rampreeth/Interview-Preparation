@@ -7,6 +7,6 @@ For concepts. [link](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXn
 
 Real life system designs explained. [link](https://www.youtube.com/channel/UCZEfiXy7PmtVTezYUvc4zZw)
 
-Interview Experiences. [link](https://www.youtube.com/channel/UCUm1OB1gDV0Tl0Mjx5I01-A)
+Interview Experiences. [link](https://www.youtube.com/watch?v=nD8jvIzNTxM&list=PLHNJ91XSF3wzT6BaLVi4WbnuHcfZSXMek)
 
 For some deep dive into few concepts. [link](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
